@@ -40,19 +40,19 @@
     "url": "$RUSHY_BIRD_LEADERBOARD_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rushy-bird-leaderboard-api",
-    "status": "down",
-    "uptime": "58.09%",
-    "uptimeDay": "58.09%",
-    "uptimeWeek": "58.09%",
-    "uptimeMonth": "58.09%",
-    "uptimeYear": "58.09%",
-    "time": 78,
-    "timeDay": 78,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78,
+    "status": "up",
+    "uptime": "3.39%",
+    "uptimeDay": "3.39%",
+    "uptimeWeek": "3.39%",
+    "uptimeMonth": "3.39%",
+    "uptimeYear": "3.39%",
+    "time": 140,
+    "timeDay": 140,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-07-12": 0
+      "2026-07-12": 7
     }
   }
 ]
