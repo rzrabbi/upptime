@@ -8,11 +8,14 @@ sites:
     url: https://rzrabbi.itch.io/rushy-bird
   - name: "Rushy Bird (Leaderboard API)"
     url: $RUSHY_BIRD_LEADERBOARD_API_URL
-    icon: https://raw.githubusercontent.com/twbs/icons/main/icons/trophy-fill.svg
+    icon: https://raw.githubusercontent.com/rzrabbi/upptime/master/assets/trophy.svg
 
 status-website:
   theme: night
   baseUrl: /upptime
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Status page for **rzrabbi's** personal sites and projects."
