@@ -8,6 +8,7 @@ sites:
     url: https://rzrabbi.itch.io/rushy-bird
   - name: "Rushy Bird (Leaderboard API)"
     url: $RUSHY_BIRD_LEADERBOARD_API_URL
+    icon: https://raw.githubusercontent.com/twbs/icons/main/icons/trophy-fill.svg
 
 status-website:
   theme: night
