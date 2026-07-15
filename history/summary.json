@@ -22,18 +22,20 @@
     "url": "https://rzrabbi.itch.io/rushy-bird",
     "icon": "https://icons.duckduckgo.com/ip3/rzrabbi.itch.io.ico",
     "slug": "rushy-bird-game",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 989,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 417,
-    "dailyMinutesDown": {}
+    "time": 372,
+    "timeDay": 547,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 372,
+    "dailyMinutesDown": {
+      "2026-07-15": 0
+    }
   },
   {
     "name": "Rushy Bird (Leaderboard API)",
