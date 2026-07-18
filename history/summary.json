@@ -22,19 +22,20 @@
     "url": "https://rzrabbi.itch.io/rushy-bird",
     "icon": "https://icons.duckduckgo.com/ip3/rzrabbi.itch.io.ico",
     "slug": "rushy-bird-game",
-    "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.03%",
-    "time": 517,
-    "timeDay": 147,
-    "timeWeek": 517,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "status": "up",
+    "uptime": "98.41%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
+    "time": 567,
+    "timeDay": 490,
+    "timeWeek": 567,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2026-07-15": 86
+      "2026-07-15": 86,
+      "2026-07-18": 55
     }
   },
   {
