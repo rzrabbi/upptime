@@ -10,36 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 129,
-    "timeWeek": 205,
-    "timeMonth": 240,
-    "timeYear": 238,
+    "time": 234,
+    "timeDay": 111,
+    "timeWeek": 178,
+    "timeMonth": 235,
+    "timeYear": 234,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Rushy Bird (Game)",
-    "url": "https://rzrabbi.itch.io/rushy-bird",
-    "icon": "https://icons.duckduckgo.com/ip3/rzrabbi.itch.io.ico",
-    "slug": "rushy-bird-game",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.21%",
-    "time": 1023,
-    "timeDay": 1103,
-    "timeWeek": 563,
-    "timeMonth": 1109,
-    "timeYear": 1023,
-    "dailyMinutesDown": {
-      "2026-07-15": 86,
-      "2026-07-18": 55,
-      "2026-07-21": 79,
-      "2026-08-01": 69,
-      "2026-08-08": 79
-    }
   },
   {
     "name": "Rushy Bird (Leaderboard API)",
@@ -53,10 +29,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 227,
-    "timeWeek": 276,
-    "timeMonth": 275,
+    "timeDay": 254,
+    "timeWeek": 285,
+    "timeMonth": 276,
     "timeYear": 280,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "n8n Automation Server (Self-Hosted)",
+    "url": "$N8N_URL",
+    "icon": "https://cdn.simpleicons.org/n8n",
+    "slug": "n8n-automation-server-self-hosted",
+    "status": "down",
+    "uptime": "69.76%",
+    "uptimeDay": "69.76%",
+    "uptimeWeek": "69.76%",
+    "uptimeMonth": "69.76%",
+    "uptimeYear": "69.76%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-08-14": 0
+    }
   }
 ]
