@@ -40,19 +40,19 @@
     "url": "$N8N_URL",
     "icon": "https://cdn.simpleicons.org/n8n",
     "slug": "n8n-automation-server-self-hosted",
-    "status": "down",
-    "uptime": "56.66%",
-    "uptimeDay": "56.66%",
-    "uptimeWeek": "56.66%",
-    "uptimeMonth": "56.66%",
-    "uptimeYear": "56.66%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.82%",
+    "uptimeDay": "1.82%",
+    "uptimeWeek": "1.82%",
+    "uptimeMonth": "1.82%",
+    "uptimeYear": "1.82%",
+    "time": 792,
+    "timeDay": 792,
+    "timeWeek": 792,
+    "timeMonth": 792,
+    "timeYear": 792,
     "dailyMinutesDown": {
-      "2026-08-14": 0
+      "2026-08-14": 14
     }
   }
 ]
