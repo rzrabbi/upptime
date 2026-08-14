@@ -19,8 +19,8 @@ status-website:
       content: "noindex"
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Status page for **rzrabbi's** personal sites and projects."
-  introMessage: "Real-time uptime and performance monitoring for my production services and side projects."
+  introTitle: "Status page for **rzrabbi's** production services and side projects."
+  introMessage: "Tracks real-time availability, response times, and incident history across these services."
   navbar:
     - title: Status
       href: /
