@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 111,
-    "timeWeek": 178,
-    "timeMonth": 235,
+    "timeDay": 156,
+    "timeWeek": 186,
+    "timeMonth": 236,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 254,
-    "timeWeek": 285,
-    "timeMonth": 276,
-    "timeYear": 280,
+    "time": 279,
+    "timeDay": 245,
+    "timeWeek": 278,
+    "timeMonth": 274,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://cdn.simpleicons.org/n8n",
     "slug": "n8n-automation-server-self-hosted",
     "status": "up",
-    "uptime": "1.82%",
-    "uptimeDay": "1.82%",
-    "uptimeWeek": "1.82%",
-    "uptimeMonth": "1.82%",
-    "uptimeYear": "1.82%",
-    "time": 792,
-    "timeDay": 792,
-    "timeWeek": 792,
-    "timeMonth": 792,
-    "timeYear": 792,
-    "dailyMinutesDown": {
-      "2026-08-14": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 784,
+    "timeDay": 784,
+    "timeWeek": 784,
+    "timeMonth": 784,
+    "timeYear": 784,
+    "dailyMinutesDown": {}
   }
 ]
