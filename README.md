@@ -1,6 +1,6 @@
 # [📈 Live Status](https://rzrabbi.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the uptime monitor and status page for [Rezaye Rabbi](https://rzrabbi.com)'s personal sites and projects, powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the uptime monitor and status page for [Rezaye Rabbi](https://rzrabbi.com)'s production services and side projects, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/rzrabbi/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/rzrabbi/upptime/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/rzrabbi/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/rzrabbi/upptime/actions/workflows/response-time.yml)

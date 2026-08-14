@@ -4,11 +4,12 @@ repo: upptime
 sites:
   - name: "rzrabbi.com (Personal Site)"
     url: https://rzrabbi.com
-  - name: "Rushy Bird (Game)"
-    url: https://rzrabbi.itch.io/rushy-bird
   - name: "Rushy Bird (Leaderboard API)"
     url: $RUSHY_BIRD_LEADERBOARD_API_URL
     icon: https://raw.githubusercontent.com/rzrabbi/upptime/master/assets/trophy.svg
+  - name: "n8n Automation Server (Self-Hosted)"
+    url: $N8N_URL
+    icon: https://cdn.simpleicons.org/n8n
 
 status-website:
   theme: night
@@ -19,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Status page for **rzrabbi's** personal sites and projects."
-  introMessage: "This page monitors the real-time uptime and performance of my personal websites, side projects, and APIs."
+  introMessage: "Real-time uptime and performance monitoring for my production services and side projects."
   navbar:
     - title: Status
       href: /
