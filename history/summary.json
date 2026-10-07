@@ -40,9 +40,9 @@
     "url": "$N8N_URL",
     "icon": "https://cdn.simpleicons.org/n8n",
     "slug": "n8n-automation-server-self-hosted",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 782,
     "timeMonth": 768,
     "timeYear": 778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-07": 0
+    }
   }
 ]
